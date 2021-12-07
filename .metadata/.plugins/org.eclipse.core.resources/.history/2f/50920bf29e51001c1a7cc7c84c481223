@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Shop Stop -Login</title>
+</head>
+<body>
+<h1>Welcome To Shop Stop</h1>
+<form action="Login" method="post">
+<table>
+<tr>
+<td>Name:</td>
+<td><input type="text" name="userName"></td>
+</tr>
+
+<tr>
+<td>Password:</td>
+<td><input type="password" name="userPassword"></td>
+</tr>
+
+</table>
+
+
+
+<input type="submit" value="Login">
+</form>
+
+
+</body>
+</html>

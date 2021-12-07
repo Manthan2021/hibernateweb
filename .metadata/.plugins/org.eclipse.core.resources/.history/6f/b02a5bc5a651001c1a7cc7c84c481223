@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Shop Stop -Login</title>
+</head>
+<body>
+<h1>Welcome To Shop Stop</h1>
+<form action="Login" method="post">
+<table>
+<tr>
+<td>Name:</td>
+<td><input type="text" name="userName"></td>
+</tr>
+
+<tr>
+<td>Password:</td>
+<td><input type="password" name="userPassword"></td>
+</tr>
+
+</table>
+
+
+
+<input type="submit" value="Login">
+</form>
+<style>
+ {
+box-sizing: border-box;
+}
+
+
+
+input[type=text]{
+width: 100%;
+padding: 12px;
+border: 1px solid #ccc;
+border-radius: 4px;
+resize: vertical;
+}
+input[type=submit] {
+background-color: #4CAF50;
+color: white;
+padding: 12px 20px;
+border: none;
+border-radius: 4px;
+cursor: pointer;
+float: right;
+}
+
+
+
+input[type=submit]:hover {
+background-color: #45a049;
+}
+input[type=password] {
+width: 100%;
+padding: 12px 20px;
+margin: 8px 0;
+box-sizing: border-box;
+border: none;
+background-color: #3CBC8D;
+color: white;
+}
+
+</style>
+
+
+</body>
+</html>

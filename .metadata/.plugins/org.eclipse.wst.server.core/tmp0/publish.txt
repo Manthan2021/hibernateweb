@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Tue Dec 07 10:21:27 GMT 2021
+org.eclipse.jst.j2ee.server\:mavenweb=D\:\\apache-tomcat-9.0.55\\wtpwebapps\\mavenweb
+org.eclipse.jst.j2ee.server\:hibernateweb=D\:\\apache-tomcat-9.0.55\\wtpwebapps\\hibernateweb
+org.eclipse.jst.jee.server\:ShopStop=D\:\\apache-tomcat-9.0.55\\wtpwebapps\\ShopStop

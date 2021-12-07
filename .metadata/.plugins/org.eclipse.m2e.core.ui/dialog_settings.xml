@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\Manthan.Bhagtani\eclipse-workspace\hibernateDemo3"/>
+			<item value="C:\Users\Manthan.Bhagtani\eclipse-workspace\hibernateDemo3\src\main\java\com\coforge\training\hibernateDemo3\CustomerApp.java"/>
+			<item value="C:\Users\Manthan.Bhagtani\eclipse-workspace\hibernateDemo2\src\main\java\com\coforge\training\jfsd\hibernateDemo2\model\Employee.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.coforge.training.CustDisp2"/>
+			<item value="com.coforge.training.CustDisp"/>
+			<item value="com.coforge.training.customerdisplay"/>
+			<item value="com.coforge.training.hibernateweb"/>
+			<item value="com.coforge.training.hibernateDemo3"/>
+			<item value="com.coforge.training.jfsd.hibernateDemo2"/>
+			<item value="com.coforge.training.jfsd.hibernatedemo"/>
+			<item value="com.coforge.training.jfsd.mavenweb"/>
+			<item value="com.coforge.training.jfsd.HelloMaven"/>
+		</list>
+		<list key="groupId">
+			<item value="com.coforge.training"/>
+			<item value="com.coforge.training.jfsd"/>
+		</list>
+		<list key="artifactId">
+			<item value="CustDisp2"/>
+			<item value="CustDisp"/>
+			<item value="customerdisplay"/>
+			<item value="hibernateweb"/>
+			<item value="hibernateDemo3"/>
+			<item value="hibernateDemo2"/>
+			<item value="hibernatedemo"/>
+			<item value="mavenweb"/>
+			<item value="HelloMaven"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>
